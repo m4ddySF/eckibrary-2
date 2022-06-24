@@ -22,7 +22,7 @@
     "express": "^4.16.3",
     "foundation-sites": "^6.2.0",
     "jquery": "^2.2.1",
-    "jsdom": "^8.1.0",
+    "jsdom": "^16.5.0",
     "karma": "^0.13.22",
     "karma-chrome-launcher": "^0.2.2",
     "karma-mocha": "^0.2.2",
